@@ -1,6 +1,4 @@
 <?xml version="1.0"?>
-<nutrition xmlns:d="http://www.diet.org/" xmlns:f="http://www.fastfood.com">
-
 <daily-values>
 	<d:total-fat units="g">65</d:total-fat>
 	<saturated-fat units="g">20</saturated-fat>
