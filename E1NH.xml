@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>oOotuansakeroOo</LastAuthor>
+  <Created>2016-06-30T06:36:23Z</Created>
+  <LastSaved>2016-06-30T05:45:52Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <TBCO_ScreenResolution dt:dt="string">96 96 1366 768</TBCO_ScreenResolution>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>55</Index>
+    <RGB>#000000</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9855</WindowHeight>
+  <WindowWidth>17100</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s51" ss:Name="Phần_trăm">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Parent="s51">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="1" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63" ss:Parent="s51">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="1" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s51">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="1" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="E1NH">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="35" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:AutoFitWidth="0" ss:Width="60.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="74.25"/>
+   <Row ss:Height="25.5">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">TABLE_NAME</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">COLUMN_NAME</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DATA_TYPE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DATA_LENGTH</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DIENTHOAINHAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VARCHAR2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MAE1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VARCHAR2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MANCTRA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VARCHAR2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MABCTRA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NGAYNHAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GIONHAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAGUI</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MANV</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MATT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VARCHAR2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MAVTBC</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LDCHUAPHAT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NUMBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E1NH_2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">HDTIEPTHEO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VARCHAR2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R13C4</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
