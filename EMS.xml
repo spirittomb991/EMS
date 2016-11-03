@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <Khối-Lượng>Đến 50gr</Khối-Lượng>
+  <Nội-Tỉnh>8.000</Nội-Tỉnh>
+  <Vùng-1>8.500</Vùng-1>
+  <Vùng-2>9.500</Vùng-2>
+  <Vùng-3>10.000</Vùng-3>
+</url>
+<url>
+  <Khối-Lượng>Trên 50gr - 100gr</Khối-Lượng>
+  <Nội-Tỉnh>8.000</Nội-Tỉnh>
+  <Vùng-1>12.500</Vùng-1>
+  <Vùng-2>13.500</Vùng-2>
+  <Vùng-3>14.000</Vùng-3>
+</url>
+<url>
+  <Khối-Lượng>Trên 100gr - 250gr</Khối-Lượng>
+  <Nội-Tỉnh>10.000</Nội-Tỉnh>
+  <Vùng-1>16.500</Vùng-1>
+  <Vùng-2>20.500</Vùng-2>
+  <Vùng-3>22.000</Vùng-3>
+</url>
+
+</urlset>
